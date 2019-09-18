@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=Test hello world script
+Exec=/usr/bin/x11vnc  -q -bg -forever
+Terminal=false
+Type=Application
+Name[en_US]=x11vnc
